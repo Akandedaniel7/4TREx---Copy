@@ -12335,7 +12335,7 @@ button.search-btn:hover {
 
 @media all and (max-width: 750px) {
   .mode-container i.gg-moon {
-    margin-top: 31px;
+    margin-top: 31%;
   }
 
   .navbar-brand img {
@@ -12348,20 +12348,53 @@ button.search-btn:hover {
   }
 }
 
-@media all and (max-width: 490px) {
+@media all and (max-width: 680px) {
   .mode-container i.gg-moon {
-    margin-top: 15px;
+    margin-top: 100%;
   }
 }
 
-
 @media all and (max-width: 430px) {
-  .mode-container i.gg-moon {
-    margin-top: 20px;
-  }
 
   .navbar-brand img {
     width: 490%;
+  }
+}
+
+@media all and (max-width: 410px) {
+
+  .navbar-brand img {
+    width: 590%;
+  }
+}
+
+@media all and (max-width: 394px) {
+  .mode-container i.gg-moon {
+    margin-top: 60%;
+  }
+
+  .navbar-brand img {
+    width: 690%;
+  }
+}
+
+@media all and (max-width: 378px) {
+  .mode-container i.gg-moon {
+    margin-top: 80%;
+  }
+
+  .navbar-brand img {
+  width: 990%;
+  }
+}
+
+@media all and (max-width: 352px) {
+  .mode-container i.gg-moon {
+    margin-top: 80%;
+  }
+
+  .navbar-brand img {
+  width: 2000%;
   }
 }
 
